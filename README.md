@@ -84,6 +84,15 @@
 
 [马克飞象专业](http://maxiang.info/)
 
+## 时间都去哪了 ##
+
+[rescuetime](https://www.rescuetime.com)
+
+[时间收集工具RescueTime推荐](http://blog.sina.com.cn/s/blog_493a84550100b5r4.html)
+
+[豆瓣如是说](http://www.douban.com/group/topic/3638119/)
+
+
 ## 其他 ##
 
 [Startup News](http://news.dbanotes.net/news "news")
