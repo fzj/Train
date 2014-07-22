@@ -1,14 +1,29 @@
-相关知识
-=====
+## 程序员 ##
+
+[新入行程序员应知的十个秘密](http://www.lemge.com/index.php?c=cont_cm_c&m=view_cont&id=281)
 
 
-## Git相关网站  ##
+## linux ##
+
+[Linus，一生只为寻找欢笑](http://chijianqiang.baijia.baidu.com/article/21626)
+
+[应该知道的Linux技巧](http://coolshell.cn/articles/8883.html)
+
+[20本最好的Linux免费书籍](http://coolshell.cn/articles/355.html)
+
+[终极 Shell](http://macshuo.com/?p=676)
+
+
+
+## Git  ##
 
 [Git参考手册](http://gitref.org/zh/basic/#diff "Git参考手册")
 
 [理解Git工作流](http://heikezhi.com/yuanyi/understanding-the-git-workflow "理解Git工作流")
 
 [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+
+[如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
 
 
 ## 命令行 ##
@@ -17,12 +32,21 @@
 
 [awk](http://baike.baidu.com/view/209681.htm)
 
+[AWK 简明教程](http://coolshell.cn/articles/9070.html)
+
 [grep](http://baike.baidu.com/view/1057278.htm)
 
 [sed](http://baike.baidu.com/subview/432091/13657254.htm)
 
 [vim](http://baike.baidu.com/subview/113188/9338173.htm)
 
+[简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
+
+[VIM——概念和技巧](http://macshuo.com/?p=877#comment-7650)
+
+[28个Unix/Linux的命令行神器](http://coolshell.cn/articles/7829.html)
+
+[10个linux非常有趣的命令(动画演示)](http://www.lemge.com/index.php?c=cont_cm_c&m=view_cont&id=209)
 
 ## web ##
 [百度前端](http://fex.baidu.com/)
@@ -30,6 +54,9 @@
 [Bootstrap](http://www.bootcss.com/)
 
 [jQuery 1.6 API 中文版](http://wangyuanwai.com/jQuery-1.6-api/)
+
+[CSS手册](http://www.divcss5.com/shouce/d_layout.shtml)
+
 
 
 ## Android  ##
@@ -42,8 +69,20 @@
 [Android学习之路](http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/)
 
 
+## Sublime Text  ##
+
+[Sublime Text 百科](http://baike.baidu.com/view/10701920.htm)
 
 
+[Sublime Text 3 文档](http://feliving.github.io/Sublime-Text-3-Documentation/)
+
+## MarkDown ##
+
+[Markdown的各种扩展](http://www.pchou.info/open-source/2014/07/07/something-about-markdown.html)
+
+[Markdown 编辑阅读器](https://www.zybuluo.com/mdeditor)
+
+[马克飞象专业](http://maxiang.info/)
 
 ## 其他 ##
 
@@ -60,6 +99,8 @@
 [冯大辉](http://dbanotes.net/)
 
 [盖国强](http://www.eygle.com/)
+
+[西乔](http://blog.xiqiao.info/)
 
 [chinaunix](http://bbs.chinaunix.net/)
 
