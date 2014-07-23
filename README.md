@@ -30,6 +30,25 @@
 
 [commandlinefu](http://www.commandlinefu.com/commands/browse/25 "commandlinefu")
 
+[ls 浏览目录&文件](http://zh.wikipedia.org/zh-cn/Ls)
+
+[cd 切换目录文件]()
+
+[mkdir 创建目录]()
+
+[cp 拷贝文件]()
+
+[mv 移动文件&目录]()
+
+[cat 查看文件]()
+
+[mount ]()
+
+[chmod]()
+
+
+
+
 [awk](http://baike.baidu.com/view/209681.htm)
 
 [AWK 简明教程](http://coolshell.cn/articles/9070.html)
