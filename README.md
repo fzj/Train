@@ -61,15 +61,20 @@
 
 [sed](http://baike.baidu.com/subview/432091/13657254.htm)
 
-[vim](http://baike.baidu.com/subview/113188/9338173.htm)
 
-[简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
-
-[VIM——概念和技巧](http://macshuo.com/?p=877#comment-7650)
 
 [28个Unix/Linux的命令行神器](http://coolshell.cn/articles/7829.html)
 
 [10个linux非常有趣的命令(动画演示)](http://www.lemge.com/index.php?c=cont_cm_c&m=view_cont&id=209)
+
+## VIM 
+
+[vim](http://baike.baidu.com/subview/113188/9338173.htm)
+[Vim入门基础](http://jianshu.io/p/bcbe916f97e1)
+
+[简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
+
+[VIM——概念和技巧](http://macshuo.com/?p=877#comment-7650)
 
 ## web ##
 [百度前端](http://fex.baidu.com/)
