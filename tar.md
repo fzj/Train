@@ -1,3 +1,5 @@
+<img src="http://yuml.me/diagram/nofunky/class/[Customer]<>1->*[Order], [Customer]-[note: Aggregate Root{bg:cornsilk}]" >
+
 # linux解压 tar命令 #
 ## tar命令 ##
     tar [-cxtzjvfpPN] 文件与目录 .... 
