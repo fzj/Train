@@ -25,7 +25,7 @@
 
 [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
 
-
+[GotGitHub](http://www.worldhello.net/gotgithub/)
 ## 命令行 ##
 
 [commandlinefu](http://www.commandlinefu.com/commands/browse/25 "commandlinefu")
