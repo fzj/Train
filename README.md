@@ -16,6 +16,7 @@
 
 
 ## Git  ##
+[git por](http://git.oschina.net/progit/)
 
 [Git参考手册](http://gitref.org/zh/basic/#diff "Git参考手册")
 
