@@ -76,6 +76,7 @@
 [简明 Vim 练级攻略](http://coolshell.cn/articles/5426.html)
 
 [VIM——概念和技巧](http://macshuo.com/?p=877#comment-7650)
+[vim IDE](http://www.cnblogs.com/zhangsf/archive/2013/06/13/3134409.html)
 
 ## web ##
 [百度前端](http://fex.baidu.com/)
