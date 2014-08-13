@@ -1,3 +1,16 @@
-执行 make
+1：修改 代码
+
+2：修改完后 执行 make 生成程序 src/emrc_main
+
+3:将文件传输到 车道机
 
 scp src/emrc_main root@192.168.50.71:/EMRCV5/BIN/
+
+登陆车道机执行 程序
+
+/EMRCV5/BIN/
+
+
+执行 make
+
+
