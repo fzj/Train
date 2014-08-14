@@ -3,6 +3,16 @@
 [新入行程序员应知的十个秘密](http://www.lemge.com/index.php?c=cont_cm_c&m=view_cont&id=281)
 
 
+## 在线学习
+[icourse163](http://www.icourse163.org/)
+
+[coursera](https://www.coursera.org/)
+
+[xuetangx](https://www.xuetangx.com/)
+
+
+
+
 ## linux ##
 
 [Linus，一生只为寻找欢笑](http://chijianqiang.baijia.baidu.com/article/21626)
