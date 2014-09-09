@@ -5,7 +5,6 @@
 [test](http://www.icourse163.org/)
 
 [test](http://www.icourse163.org/)
-[test](http://www.icourse163.org/)
 ## 在线学习
 [icourse163](http://www.icourse163.org/)
 
