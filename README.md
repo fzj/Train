@@ -117,6 +117,7 @@
 
 
 [Sublime Text 3 文档](http://feliving.github.io/Sublime-Text-3-Documentation/)
+[sublime package ](https://sublime.wbond.net/browse)
 
 ## MarkDown ##
 
