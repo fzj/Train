@@ -39,6 +39,11 @@
 [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
 
 [GotGitHub](http://www.worldhello.net/gotgithub/)
+
+[图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg)
+
+[理解git常用命令原理](http://codemacro.com/2014/09/09/understand-git/)
+
 ## 命令行 ##
 
 [commandlinefu](http://www.commandlinefu.com/commands/browse/25 "commandlinefu")
